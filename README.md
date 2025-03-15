@@ -12,7 +12,7 @@ Experienced Web & Middleware Engineer with more than 3 years of expertise in Win
 - **Web and Server Support**: Tomcat, Apache HTTPD, MS IIS, Windows Server, Sharepoint
 
 Projects:
-#- **[CI/CD Pipeline проект](https://github.com/placeholderimperia/devops-project1.git)** – Проект за създаване на CI/CD pipeline с Azure DevOps и GitHub Actions.
+#- **[CI/CD Pipeline проект]((https://github.com/placeholderimperia/Student-Registry-App.git))** – Проект за създаване на CI/CD pipeline с GitHub Actions.
 #- **[Docker и Kubernetes проект](https://github.com/placeholderimperia/kubernetes-project.git)** – Проект за оркестрация на контейнери с Kubernetes и Docker.
 
 ## How to connect with me:
