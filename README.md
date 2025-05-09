@@ -5,6 +5,7 @@ I am Martin Georgiev.
 Experienced Web & Middleware Engineer with more than 3 years of expertise in Windows and Linux administration, along with practical experience in Azure cloud solutions and DevOps practices. Currently making a career transition into DevOps to apply my skills in system administration, automation, and cloud infrastructure management to enhance development and operational workflows.
 
 ## Technologies I work with:
+- **OS - Linux and Windows
 - **Containers**: Docker, Kubernetes
 - **Cloud Technologies**: Azure , AWS
 - **CI/CD Tools**: GitHub Actions, Azure DevOps, Jenkins
