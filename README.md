@@ -6,7 +6,7 @@ Experienced Web & Middleware Engineer with more than 3 years of expertise in Win
 
 ## Technologies I work with:
 - **Containers**: Docker, Kubernetes
-- **Cloud Technologies**: Azure
+- **Cloud Technologies**: Azure , AWS
 - **CI/CD Tools**: GitHub Actions, Azure DevOps, Jenkins
 - **Automation**: Terraform, Ansible, Bash, Python
 - **Web and Server Support**: Tomcat, Apache HTTPD, MS IIS, Windows Server, Sharepoint
